@@ -10,4 +10,3 @@ bcrypt
 mercadopago
 python-dotenv
 mailersend
-vbnm,.;/
