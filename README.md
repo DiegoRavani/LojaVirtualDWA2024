@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Loja Virtual de Ricardo Maroquio Alterado
 
 Loja virtual desenvolvida durante a disciplina de Desenvolvimento Web Avançado no Ifes Cachoeiro.
@@ -101,8 +100,3 @@ Para configurar o Mercado Pago, siga as instruções no arquivo [mercadopago.md]
 - [How To Work With Multiple Github Accounts on a single Machine](https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3)
 - [Git Credential Manager: Multiple Users](https://github.com/git-ecosystem/git-credential-manager/blob/main/docs/multiple-users.md)
 - [Integração com Mercado Pago](https://github.com/mercadopago/sdk-python)
-=======
-# Loja Virtual de Diego Ravani
-
-Loja virtual desenvolvida durante a disciplina de Desenvolvimento Web Avançado no Ifes Cachoeiro.
->>>>>>> 10360e8dfdfa900bb6dc2ff33688190a5e343c6a
